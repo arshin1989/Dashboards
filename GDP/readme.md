@@ -1,6 +1,7 @@
 Welcome to the "Production Accounts Data Analysis and Value Added Review" Power BI dashboard, an extensive exploration of Iran's economic growth, value-added trends, and regional impact. This comprehensive analysis showcases a detailed examination of economic branches across all provinces, with a focus on changes in value-added at fixed and current prices. Visualized on an interactive map of Iran, this dashboard identifies influential factors and provinces in the country's production account, shedding light on the key drivers of economic development.
 
 Key Features:
+
 📈 Economic Growth Analysis: Delve into interactive visualizations that analyze economic growth across various branches, providing valuable insights into the performance of different sectors.
 
 🗺️ Regional Impact: Explore the regional dimension of economic development through an interactive map that highlights changes in value-added for economic activities across all provinces of Iran. Identify regional disparities and growth trends.
